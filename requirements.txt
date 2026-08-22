@@ -5,3 +5,4 @@ ezdxf
 matplotlib
 geopy
 pyproj
+shapely
